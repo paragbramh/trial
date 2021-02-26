@@ -3,3 +3,4 @@ i like c++
 i like c too
 
 sharukh khan like data structure and algorithms
+rajnikant loves machine learning 
