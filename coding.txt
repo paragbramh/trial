@@ -1,3 +1,6 @@
 welcome to coding world 
 i like c++
-i like c too
+i like python
+
+sharukh khan like data structure and algorithms
+rajnikant loves machine learning 
